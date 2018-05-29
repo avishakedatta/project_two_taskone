@@ -1,0 +1,99 @@
+.container{	
+	
+	height:650px;
+	width:60%;
+	margin:auto;
+	background-color:pink;
+}
+.header{
+
+	height:80px;
+	width:100%;
+	margin:auto;
+	background-color:white;
+}
+.logo{
+
+	height:80px;
+	width:25%;
+	float:left;
+	background-color:black;
+
+}
+.title{
+	height:80px;
+	width:75%;
+	float:left;
+	background-color:#d29f73;
+}
+.left_column{
+
+	height:400px;
+	width:25%;
+	float:left;
+	background-color:maroon;
+}
+.banner{
+	height:200PX;
+	width:100%;
+	float:left;
+	background-color:black;
+}
+
+.banner_one{
+
+	height:100px;
+	width:75%;
+	float:left;
+	background-color:green;
+}
+.banner_two{
+	height:100px;
+	width:75%;
+	float:left;
+	background-color:skyblue;
+}
+.content{	
+
+		height:200px;
+		width:75%;
+		float:right;
+		background-color:green;
+}
+.content_one{	
+		height:200px;
+		width:50%;
+		float:left;
+		background-color:blue;
+}
+.content_two{
+		height:200px;
+		width:50%;
+		float:left;
+		background-color:orange;
+}
+.before_footer{
+		height:120px;
+		width:100%;
+		float:left;
+		background-color:blue;
+}
+.footer_one{	
+		height:120px;
+		width:50%;
+		float:left;
+		background-color:gray;
+	}
+.footer_two{
+		height:120px;
+		width:50%;
+		float:left;
+		background-color:#73481d;
+}
+.footer{
+		height:50px;
+		width:100%;
+		float:left;
+		background-color:deeppink;
+	
+}
